@@ -1,0 +1,11 @@
+
+
+Project URL:
+https://nbvqasfoegbsifhpijgv.supabase.co
+
+API Key:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5idnFhc2ZvZWdic2lmaHBpamd2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzM1NjY4NjIsImV4cCI6MjA0OTE0Mjg2Mn0.KIP9rYul3LrYpP5z5757BzDz7tk0VcpadPWskwOIxWI
+
+
+
+npm run dev
